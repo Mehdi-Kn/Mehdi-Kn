@@ -33,7 +33,7 @@ My goal is to decode the genome's secrets and enhance our understanding of gene 
 
 ### African Genome Center (University Mohammed VI polytechnic)
 **February 2024 - July 2024**  
-**End of studies Internship (Omic Analysis of Colorectal Cancer)**
+**End of studies Internship (Transcrptomic Analysis of Colorectal Cancer)**
 - Proficient in RNA and DNA extraction, quality control, and next-generation sequencing library preparation.
 - Experienced with sequencing technologies.
 - Command-line, Python, R experience for bioinformatic analysis: alignment, variant calling, somatic mutation detection, copy number variation, pathway analysis.
