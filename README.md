@@ -22,13 +22,6 @@ My goal is to decode the genome's secrets and enhance our understanding of gene 
 - **Immunohistochemistry**
 - **CRISPR-cas Technology**
 
-## Certifications
-- **Learn Bulk RNA-seq Data Analysis from Scratch**
-- **Data Analysis with R**
-- **The R language - Applications in Bioinformatics**
-- **Epigenetic Control of Gene Expression**
-- **Mapping the Spatial Dynamics of Cancer Hallmarks**
-
 ## Internships
 
 ### African Genome Center (University Mohammed VI polytechnic)
