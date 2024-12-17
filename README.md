@@ -17,10 +17,13 @@ My goal is to decode the genome's secrets and enhance our understanding of gene 
 - **Data Analysis**
 - **DNA Extraction**
 - **Next-Generation Sequencing**
+- **CRISPR-cas Technology**
+- **Long read analysis**
+- **Epigenetic Interpretations**
+- **Shotgun Sequencing analysis**
 - **Polymerase Chain Reaction (PCR)**
 - **Anapath-coloration**
 - **Immunohistochemistry**
-- **CRISPR-cas Technology**
 
 ## Internships
 
